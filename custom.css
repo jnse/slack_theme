@@ -1,9 +1,9 @@
 * {
-    font-family: screen !important;
-    font-size: 8pt !important;
+    font-family: fixed !important;
+    font-size: 15pt !important;
 }
 
-body { background: #222; color: #10f010; }
+body { background: #101012; color: #A0A0A2; }
 
 a { color: #94aa94; }
 
